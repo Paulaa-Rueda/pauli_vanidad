@@ -1,0 +1,89 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Crimson Pro", serif;
+}
+.logo{
+    width: 325px;
+    height: 128px;    
+}
+/* <<<<<<<<<<<<<<< BARRA DE NAVEGACIÓN >>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.bg-primary {
+  background: #cebacf !important;
+}
+.nav-item a {
+  background-color: #cebacf;
+  font-family: "Crimson Pro", serif;
+  font-size: 1.3rem;
+  color: black !important;
+  /* width: 15rem; */
+  padding: 0px;
+  text-align: center;
+}
+
+.nav-item:hover a {
+  text-decoration: underline;
+}
+
+/* <<<<<<<<<<<<<<<<<<SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.card{
+  margin-top: 15px;
+  border: none;
+}
+
+/* <<<<<<<<<<<<<<<<<<<<<<FOOTER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+footer{
+    background: #cebacf;
+    margin-top: 15px;
+}
+
+a{
+    color:black;
+}
+
+.col li {
+    list-style: none;
+}
+
+.col h1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+  
+}
+
+.col h1:hover {
+    text-decoration: underline;
+}
+
+.container-footer {
+  text-align: center;
+}
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<TIENDA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>< */
+.btn {
+  background: #cebacf;
+  border: #cebacf;
+}
+
+.btn:hover{
+  background: rgb(131, 108, 108);
+}
+
+/* <<<<<<<<<<<<<<<<<<<<PROMOCIONES>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+.card1 img{
+  width: 300px;  
+  height: 300px;
+      
+}
+/* <<<<<<<<<<<<<<<<<<<<<PREGUNTAS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.btn1 {
+  color:black;
+  font-weight: 900;
+  font-size: 1.1rem;
+  border: none;
+  
+}
+
+
